@@ -8,8 +8,8 @@
 
             //Fibonacci.DisplayFibonacciSeries();
             //PerfectNumber.FindPerfectNumber();
-            //ReverseNo.ReverseNumber();
-            PrimeNo.PrimeNumber();
+            ReverseNo.ReverseNumber();
+            //PrimeNo.PrimeNumber();
         }
     }
 }
